@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Números para Palavras</title>
+    <link rel="shortcut icon" href="./assets/img/fav-icon-numeros-palavras.png" type="image/x-icon">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/rodape.css">
+</head>
+<body>
+    <main id="main-container">
+        <h1>Convertendo Números Para Palavras</h1>
+        <h2>Digite um número entre 1 e 1000 para ver a sequencia escrita por extenso</h2>
+        <section id="form-container">
+            <input id="input" name="input" type="number" min="1" max="1000" placeholder="Digite aqui">
+            <button id="botao-escrever">Escrever</button>
+        </section>
+        <section id="box-container">
+            <p id="numeros">Aguardando...</p>
+        </section>
+    </main>
+
+    <section id="botoes">
+        <button id="vinte" class="botao-pre-set">1 a 20</button>
+        <button id="cem" class="botao-pre-set">21 a 100</button>
+        <button id="mil" class="botao-pre-set">101 a 1000</button>
+    </section>
+
+    <footer id="rodape">
+        <section id="bloco-informacoes">
+            <div>
+                <h2 id="feito-por">Develop By:</h2>
+            </div>
+            <div id="container-info">
+                <h3 class="nome-dev matheus">Matheus Vieira</h3>
+                <div id="container-img">
+                    <a class="link-social" href="https://github.com/th-matheus" target="_blank"><img class="img-social" src="./assets/img/github.svg" alt="github-lilas"></a>
+                    <a class="link-social" href="https://www.linkedin.com/in/th-matheus/" target="_blank"><img class="img-social" src="./assets/img/linkedin.svg" alt="linkedin-lilas"></a>
+                </div>
+            </div>
+        </section>
+    </footer>
+
+    <script src="./assets/js/funcoes-numeros-por-extenso.js"></script>
+    <script src="./assets/js/mostra-na-tela.js"></script>
+</body>
+</html>

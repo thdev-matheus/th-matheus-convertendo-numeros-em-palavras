@@ -1,0 +1,51 @@
+#rodape {
+    background-color: #6a2aa5;
+    height: 8rem;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2rem;
+    align-items: center;
+    align-content: center;
+}
+
+#bloco-informacoes {
+    display: flex;
+    justify-content: space-around;
+    width: 25rem;
+    margin-top: 2rem;
+    margin-right: 3rem;
+}
+
+#feito-por {
+    font-size: 25pt;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    margin-bottom: 0;
+}
+
+.nome-dev {
+    color: #fff;
+    text-align: center;
+    font-size: 14pt;
+    white-space: nowrap;
+    margin-bottom: 1rem;
+}
+
+#container-img {
+    display: flex;
+    justify-content: center;
+}
+
+.link-social {
+    margin: 0 0.5rem 1rem;
+}
+
+.img-social {
+    height: 2rem;
+}
+
+.img-social:hover {
+    height: 2.3rem;
+    transition: height 2s;
+}
