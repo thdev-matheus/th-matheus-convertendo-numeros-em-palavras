@@ -1,37 +1,48 @@
-# Extra: Convertendo números para palavras
+# Convertendo Números em Palavras
 
-## Instruções
+## link 👇
 
-Comece fazendo o clone desse repositório.
+https://thdev-matheus.github.io/th-matheus-convertendo-numeros-em-palavras/
 
-Escreva uma função chamada *numbersToWords* que retorna um array com todos os números de 1 até 1000 **por extenso**, por exemplo, "cento e dezessete" ou "trezentos e quarenta e dois".
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
+<br/>
+<br/>
+<div style="display: inline-block">
+    <img width="46%" src="https://i.ibb.co/Hz1vJRH/Captura-de-tela-de-2022-07-31-23-09-35.png" alt="imagem">
+    <img width="46%" src="https://i.ibb.co/KqGKtPf/Captura-de-tela-de-2022-07-31-23-09-40.png" alt="imagem">
+    <img width="46%" src="https://i.ibb.co/DzzZB58/Captura-de-tela-de-2022-07-31-23-09-44.png" alt="imagem">
+    <img width="46%" src="https://i.ibb.co/VSyxWpW/Captura-de-tela-de-2022-07-31-23-09-47.png" alt="imagem">
+    <img width="46%" src="https://i.ibb.co/d5HKb8p/Captura-de-tela-de-2022-07-31-23-09-59.png" alt="imagem">
+</div>
+<br/>
+<br/>
 
-- Comece pequeno, primeiro com os números de 1 até 20. *(1 ponto)*
-- Ao concluir, amplie sua solução para abranger os números até 100. *(3 pontos)*
-- Se conseguir resolver o item anterior, amplie novamente para abranger os números até 1000. *(6 pontos)*
+> Escreva por extenso a sequência.
 
-Quando conseguir retornar todos os números com sucesso, use o JavaScript para exibi-los em uma página. Escreva uma função de ajuda separada que exibe os resultados ao chamar *numbersToWords* na página.
+<br/>
 
-## Dicas
+Aplicação desenvolvida no 2º módulo do curso de desenvolvimento full stack da Kenzie Academy Brasil. Escreve por extenso a contagem de 1 ao número escrito.
 
-Prepare-se para usar loops e condicionais ao implementar sua resposta, e os arrays são muito úteis também.
+<br/>
 
-Pense sobre como lidar com cada número em termos de [posição de valores](https://www.mathsisfun.com/place-value.html) como centenas, dezenas e unidades.
+## Criador do projeto
 
-Tente criar alguns arrays constantes pré-definidos para mapear a posição de valores numéricos em strings que representam a palavra por extenso correspondente. Por exemplo, um destes arrays pode ser assim:
+Este projeto foi criado e estruturado por:
 
-```Faça o push do código para o seu repositório GitHub e implemente-o GitHub pages. No Canvas, por favor, envie sua url do GitHub Pages: (ex: https://nomedeusuario.github.io/katas2) e envie o link do seu repositório nos comentários. Após ser a correção, seu projeto deverá ficar privado.
-const tenName = ["", "dez", "vinte", "trinta", "quarenta", "cinquenta",
-                "sessenta", "setenta", "oitenta", "noventa"];
-```
-
-Você pode encontrar casos especiais que fogem do padrão. Tente encontrar uma maneira precisa de lidar com tais casos usando o que sabe sobre condicionais (se forem sentenças).
-
-## Desafio extra
-
-Tente criar uma lógica semelhante para descrever intervalos de tempo com palavras. Escreva uma função que use uma Data do JavaScript como parâmetro e retorne uma String contendo um intervalo de tempo em relação ao tempo atual. Os intervalos devem ser arredondados usando a unidade apropriada, por exemplo "20 segundos atrás", "14 minutos atrás", "2 horas atrás", "3 dias atrás", "4 meses atrás", ou "7 anos atrás".
-
-## Envio
-
-Faça o push do código para o seu repositório GitHub e implemente-o GitHub pages. No Canvas, por favor, envie sua url do GitHub Pages: (ex: https://nomedeusuario.github.io/nums-to-words) e envie o link do seu repositório nos comentários. Atenção, seu repositório deverá ser compartilhado apenas com a organização. (Internal)
-
+<table>
+  <tr>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/109465340?v=4" width="100px;" alt="Foto do Theus no GitHub"/><br>
+        <sub>
+          <b>Matheus Vieira</b>
+        </sub>
+    </td>
+  </tr>
+</table>
